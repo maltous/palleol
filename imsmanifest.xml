@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5sDu0EEOooA_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Palliative &amp; End of Life Care</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Palliative_&amp;_End_of_Life_Care_ORG">
+    <organization identifier="Palliative_&amp;_End_of_Life_Care_ORG">
+      <title>Palliative &amp; End of Life Care</title>
+      <item identifier="End_of_Life_Care_SCO" isvisible="true" identifierref="__5sDu0EEOooA_course_id_RES">
+        <title>Palliative &amp; End of Life Care</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5sDu0EEOooA_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/Slide5oeLEtxGykX.swf" />
+      <file href="story_content/video_5YVWhbu7E1M_22_48_178x100.mp4" />
+      <file href="mobile/video_5YVWhbu7E1M_22_48_178x100.jpg" />
+      <file href="story_content/6RLTqWBv1fT6DnuKKYqWfc{Width=700, Height=520}Light_80_DX1400_DY1400.jpg" />
+      <file href="mobile/6RLTqWBv1fT6DnuKKYqWfc{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/6lBYxH9dZtG_80_DX1178_DY1178.swf" />
+      <file href="mobile/6lBYxH9dZtG_80_DX1178_DY1178_CX589_CY347.png" />
+      <file href="story_content/_glow.swf" />
+      <file href="story_content/6rBrhr01Mim_80_DX300_DY300.jpg" />
+      <file href="mobile/6rBrhr01Mim_80_DX300_DY300_CX225_CY144.jpg" />
+      <file href="story_content/video_6o0wIIFMspm_22_48_566x406.mp4" />
+      <file href="mobile/video_6o0wIIFMspm_22_48_566x406.jpg" />
+      <file href="story_content/video_5woRLhqrnsL_22_48_644x406.mp4" />
+      <file href="mobile/video_5woRLhqrnsL_22_48_644x406.jpg" />
+      <file href="story_content/video_6Aatyve9T7X_22_48_656x406.mp4" />
+      <file href="mobile/video_6Aatyve9T7X_22_48_656x406.jpg" />
+      <file href="story_content/video_6ZU0pqCAjKy_22_48_668x406.mp4" />
+      <file href="mobile/video_6ZU0pqCAjKy_22_48_668x406.jpg" />
+      <file href="story_content/video_5lChTjVWNMN_22_48_644x406.mp4" />
+      <file href="mobile/video_5lChTjVWNMN_22_48_644x406.jpg" />
+      <file href="story_content/video_6reJBxzgztE_22_48_542x406.mp4" />
+      <file href="mobile/video_6reJBxzgztE_22_48_542x406.jpg" />
+      <file href="story_content/5s2JfrdGxsF_80_DX1200_DY1200.jpg" />
+      <file href="mobile/5s2JfrdGxsF_80_DX1200_DY1200_CX600_CY427.jpg" />
+      <file href="story_content/5v84jxxSPVu_80_DX304_DY304.jpg" />
+      <file href="mobile/5v84jxxSPVu_80_DX304_DY304_CX200_CY200.jpg" />
+      <file href="story_content/6WkXinEZPJj_80_DX320_DY320.swf" />
+      <file href="mobile/6WkXinEZPJj_80_DX320_DY320_CX197_CY93.png" />
+      <file href="story_content/6H5tu1fhzew_80_DX200_DY200.swf" />
+      <file href="mobile/6H5tu1fhzew_80_DX200_DY200_CX150_CY144.png" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.json" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5oeLEtxGykX.jpg" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6Zqb2GBkXzA.swf" />
+      <file href="story_content/slides/6ABSieYxAgz.swf" />
+      <file href="story_content/slides/5d7FBiXpFqF.swf" />
+      <file href="story_content/slides/6KLPybMxOw3.swf" />
+      <file href="story_content/slides/5YjrzXtdwHg.swf" />
+      <file href="story_content/slides/5tt3Wtcfz0e.swf" />
+      <file href="story_content/slides/6WIhoihxETh.swf" />
+      <file href="story_content/slides/5nGsXuwgCbv.swf" />
+      <file href="story_content/slides/5sXQnJtpV5k.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d7FBiXpFqF.js" />
+      <file href="html5/data/js/5nGsXuwgCbv.js" />
+      <file href="html5/data/js/5sXQnJtpV5k.js" />
+      <file href="html5/data/js/5tt3Wtcfz0e.js" />
+      <file href="html5/data/js/5YjrzXtdwHg.js" />
+      <file href="html5/data/js/6ABSieYxAgz.js" />
+      <file href="html5/data/js/6KLPybMxOw3.js" />
+      <file href="html5/data/js/6WIhoihxETh.js" />
+      <file href="html5/data/js/6Zqb2GBkXzA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
